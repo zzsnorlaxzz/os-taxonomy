@@ -1,3 +1,7 @@
+> **참고용 포크** · 이 저장소는 원본 코드와 이력을 보존합니다. 최신 개발과 사용 안내는 [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)을 확인하세요.
+>
+> 2026-11-06 정리 기준, 이 안내 추가 전 기본 브랜치에 원본에 없는 추가 커밋은 없었습니다.
+
 # Marble Skill Taxonomy
 
 An open, structured taxonomy of **what children learn** across the primary/elementary years — decomposed into fine-grained "micro-topics", wired into a prerequisite graph, and aligned to national curriculum standards. Produced by [Marble](https://withmarble.com).
